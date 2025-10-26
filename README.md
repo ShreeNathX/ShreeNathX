@@ -26,7 +26,7 @@ I enjoy solving problems and building beginner-friendly projects that make learn
 
 ### 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShreeNath-X&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShreeNathX&layout=compact&theme=tokyonight)
 
 ---
 
