@@ -1,31 +1,87 @@
-<h1 align="center">Hi 👋, I'm Shree Nath Mahato</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Shree+Nath+Mahato;Data+Analyst+%26+Data+Scientist;Curiosity-led%2C+Impact-driven." alt="Typing SVG" />
+</h1>
 
 <p align="center">
-Curiosity-led, impact-driven. I write code that listens, learns, and lifts.
+  <i>I write code that listens, learns, and lifts.</i>
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/shree-nath-mahato-88301a262" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/shreenath617" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://shreenathx.github.io/Portfolio-Website/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white" />
+  </a>
+  <a href="mailto:shreenath.ventures17@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+### About Me
+
+I'm an aspiring **Data Analyst & Data Scientist** with a passion for Python, C++, SQL, and Machine Learning.
+I enjoy solving real-world problems and building beginner-friendly projects that make learning easier for others.
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreeNathX&layout=compact&theme=tokyonight&hide_border=true&hide=c%2B%2B" width="300" />
+
+- Currently exploring **Machine Learning & Data Science**
+- Always learning something new every day
+- Open to collaborations on **data-driven projects**
+- I believe in code that is clean, purposeful, and impactful
+- Reach me at: **shreenath.ventures17@gmail.com**
+
+<br clear="right"/>
+
+---
+
+### Tech Stack
+
+**Languages**
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+**Data & ML**
+
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+</p>
+
+**Tools**
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
 ---
 
-### 🧑‍💻 About Me
+### Portfolio
 
-I'm an aspiring programmer and data enthusiast exploring Python, C++, SQL, and Data Analytics.  
-I enjoy solving problems and building beginner-friendly projects that make learning easier for others.
-
-📫 Reach me at: **shreenath.ventures17@gmail.com**
-
----
-
-### 🧰 Tech Stack
-- 🐍 Python  
-- 💻 C++  
-- 🗃️ SQL  
-- 📊 Data Analytics  
-- 🤖 Machine Learning  
+<p align="center">
+  <a href="https://shreenathx.github.io/Portfolio-Website/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-Shree%20Nath%20Mahato%20%7C%20Data%20Analyst%20%26%20Data%20Scientist-58A6FF?style=for-the-badge&logo=githubpages&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shree-nath-mahato-88301a262" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shree-nath-mahato" height="30" width="40" /></a>
-<a href="https://instagram.com/shreenath617" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shreenath617" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ShreeNathX&label=Profile+Views&color=58A6FF&style=flat" />
+</p>
+
+<p align="center">
+  <i>"Data is not just numbers — it's stories waiting to be told."</i>
 </p>
