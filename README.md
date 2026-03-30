@@ -83,5 +83,5 @@ I enjoy solving real-world problems and building beginner-friendly projects that
 </p>
 
 <p align="center">
-  <i>"Data is not just numbers - it's stories waiting to be told."</i>
+  <i>"Data is not just numbers -- it's stories waiting to be told."</i>
 </p>
