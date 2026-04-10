@@ -25,7 +25,7 @@
 
 ## About Me
 
-I'm an aspiring **Data Analyst & Data Scientist** with a passion for Python, C++, SQL, and Machine Learning.  
+I'm an aspiring **Data Analyst & Data Scientist** with a passion for Python, SQL, and Machine Learning.  
 I enjoy solving real-world problems and building beginner-friendly projects.
 
 - Currently exploring **Machine Learning & Data Science**
